@@ -1,3 +1,6 @@
 # AnimationListView
+动画效果列表
 
-动画效果列表，试了就知道
+<img src="http://wailovet.hk135.lfidc.xyz/img/0.gif"/>
+
+
